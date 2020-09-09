@@ -464,3 +464,14 @@ issues中其他人提供的下载地址。如果有好的资源，希望大家�
     - 01事情要从1995年说起.flac
     - 09被禁忌的游戏.flac
 
+音乐+演唱会珍藏版：度盘发不上去了下载磁力吧
+
+magnet:?xt=urn:btih:306db01c7f463645b9c99738f70484c4ccdc3f28&dn=李志
+
+magnet:?xt=urn:btih:27bd67550b5e5b64f76940e7bfe2977b9c2c9dc5&dn=李志专辑合集
+
+magnet:?xt=urn:btih:8499e639babd31ea3d44b13b4ecbb45755e975f4&dn=李志 2014-2015 iO跨年演唱会 完整版.mkv
+
+magnet:?xt=urn:btih:af19c1f0e22e5aaa31a49ef4bdd0d8c31ce90ab9&dn=李志
+
+magnet:?xt=urn:btih:115112a98091c8a2d5b7818dad66dd23521b5bd0&dn=李志
